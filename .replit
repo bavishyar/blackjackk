@@ -1,0 +1,2 @@
+run     = "rm *.class; javac *.java; java BlackJack;"
+laguage = "java"
